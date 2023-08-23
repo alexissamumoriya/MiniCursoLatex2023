@@ -1,0 +1,203 @@
+\providecommand{\abntreprintinfo}[1]{%
+ \citeonline{#1}}
+\setlength{\labelsep}{0pt}\begin{thebibliography}{}
+\providecommand{\abntrefinfo}[3]{}
+\providecommand{\abntbstabout}[1]{}
+\abntbstabout{v-1.9.7 }
+
+\bibitem[Araujo 2018]{latexabntex2}
+\abntrefinfo{Araujo}{ARAUJO}{2018}
+{ARAUJO, L.~C. \textbf{A classe abntex2}: Documentos t\'{e}cnicos e
+  cient\'{i}ficos brasileiros compat\'{i}veis com as normas abnt.
+São Paulo, 2018. 45~p.  (Manuais \LaTeX). Dispon{\'\i}vel em:
+  \url{http://www.abntex.net.br/}. Acesso em: 30 Nov. 2020.}
+
+\bibitem[Barbosa et al. 2004]{Barbosa2004}
+\abntrefinfo{Barbosa et al.}{BARBOSA et al.}{2004}
+{BARBOSA, C. et al. \textbf{Testando a utiliza{\c c}\~ao de ``et al.''}. 2. ed.
+  Cidade: Editora, 2004.}
+
+\bibitem[Barbosa 2012]{Barbosa2012}
+\abntrefinfo{Barbosa}{BARBOSA}{2012}
+{BARBOSA, D.~F.
+\textbf{{Modelagem Termodin{\^{a}}mica Do Equil{\'{i}}brio
+  S{\'{o}}lido-L{\'{i}}quido De Misturas Bin{\'{a}}rias De Compostos Graxos
+  Modelagem Termodin{\^{a}}mica Do Equil{\'{i}}brio
+  S{\'{o}}lido-L{\'{i}}quido}}.
+123~p. Tese (Doutorado) --- Escola Polit{\'{e}}cnica da Universidade de
+  S{\~{a}}o Paulo, 2012.}
+
+\bibitem[Boudouh et al. 2016]{Boudouh2016}
+\abntrefinfo{Boudouh et al.}{BOUDOUH et al.}{2016}
+{BOUDOUH, I. et al. {Measurement and prediction of solid–liquid phase
+  equilibria for systems containing biphenyl in binary solution with long-chain
+  n-alkanes}.
+\textbf{Journal of Thermal Analysis and Calorimetry}, Springer Netherlands,
+  v.~125, n.~2, p. 793--801, 2016.
+ISSN 15882926.}
+
+\bibitem[Carvalho, Fajardo e Cruz 2001]{Carvalho2001}
+\abntrefinfo{Carvalho, Fajardo e Cruz}{CARVALHO; FAJARDO; CRUZ}{2001}
+{CARVALHO, C.; FAJARDO, J.; CRUZ, J. Intelig{\^e}ncia competitiva numa vis\~ao
+  de futuro: proposta metodol\'{o}gica.
+\textbf{DataGramaZero - Revista da Ci{\^e}ncia da Informa{\c c}\~ao}, v.~2,
+  n.~3, p. 12--16, 2001.}
+
+\bibitem[Costa et al. 2012]{Costa2012}
+\abntrefinfo{Costa et al.}{COSTA et al.}{2012}
+{COSTA, M.~C. et al. {Phase diagrams of mixtures of ethyl palmitate with fatty
+  acid ethyl esters}.
+\textbf{Fuel}, Elsevier Ltd, v.~91, n.~1, p. 177--181, 2012.
+ISSN 0016-2361.
+Dispon{\'\i}vel em: \url{http://dx.doi.org/10.1016/j.fuel.2011.07.018}.}
+
+\bibitem[Costa et al. 2007]{Costa2007}
+\abntrefinfo{Costa et al.}{COSTA et al.}{2007}
+{COSTA, M.~C. et al. {High pressure solid-liquid equilibria of fatty acids}.
+\textbf{Fluid Phase Equilibria}, v.~253, n.~2, p. 118--123, 2007.
+ISSN 03783812.}
+
+\bibitem[Costa et al. 2009]{Costa2009}
+\abntrefinfo{Costa et al.}{COSTA et al.}{2009}
+{COSTA, M.~C. et al. {The solid-liquid phase diagrams of binary mixtures of
+  even saturated fatty acids differing by six carbon atoms}.
+\textbf{Thermochimica Acta}, v.~496, n.~1-2, p. 30--37, 2009.
+ISSN 00406031.}
+
+\bibitem[Coutinho, Alij\'{o} e Goulart 2019]{Goulart2019}
+\abntrefinfo{Coutinho, Alij\'{o} e Goulart}{COUTINHO; ALIJ\'{o}; GOULART}{2019}
+{COUTINHO, P. L.~A.; ALIJ\'{o}, P. H.~R.; GOULART, A.~K.
+  {Intensifica{\c{c}}{\~{a}}o de processos e qu{\'{i}}mica verde:
+  import{\^{a}}ncia para as ind{\'{u}}strias farmac{\^{e}}utica,
+  cosm{\'{e}}ticos, aliment{\'{i}}cia e biorrefinarias}.
+\textbf{Revista Fitos}, v.~13, n.~1, p. 74--93, 2019.
+ISSN 1808-9569.}
+
+\bibitem[Dias 2020]{Angelica}
+\abntrefinfo{Dias}{DIAS}{2020}
+{DIAS, A.~B.
+\textbf{S\'{i}ntese de Biodiesel a partir de Blends de \'{O}leo e
+  Avalia\c{c}\~{a}o do Processo Produtivo via An\'{a}lise de Infravermelho com
+  Transfoemada de Fourrier (FT-IR)}.
+Disserta\c{c}\~{a}o (Mestrado) --- Instituto Federal do Paraná, 2020.}
+
+\bibitem[Fonseca e Czuy 2005]{Fonseca2005}
+\abntrefinfo{Fonseca e Czuy}{FONSECA; CZUY}{2005}
+{FONSECA, F.~P. da; CZUY, D.~C. {Forma{\c{c}}{\~{a}}o Arenito Caiu{\'{a}}: uso,
+  ocupa{\c{c}}{\~{a}}o do solo e problemas ambientais na regi{\~{a}}o noroeste
+  do Paran{\'{a}}.}
+\textbf{III Simp{\'{o}}sio Nacional de Geografia Agr{\'{a}}ria - II
+  Simp{\'{o}}sio Internacional de Geografia Agr{\'{a}}ria}, p.~1--7, 2005.}
+
+\bibitem[Gebremariam e Marchetti 2018]{Gebremariam2018}
+\abntrefinfo{Gebremariam e Marchetti}{GEBREMARIAM; MARCHETTI}{2018}
+{GEBREMARIAM, S.~N.; MARCHETTI, J.~M. {Economics of biodiesel production:
+  Review}.
+\textbf{Energy Conversion and Management}, v.~168, n. April, p. 74--84, 2018.
+ISSN 01968904.}
+
+\bibitem[Grätzer 2016]{tex}
+\abntrefinfo{Grätzer}{GRäTZER}{2016}
+{GRäTZER, G. \textbf{More Math Into \LaTeX}. 5. ed. Toronto: Sprimner, 2016.
+ISBN 978-3-319-23796-1.}
+
+\bibitem[Hoekman et al. 2012]{Hoekman2012}
+\abntrefinfo{Hoekman et al.}{HOEKMAN et al.}{2012}
+{HOEKMAN, S.~K. et al. {Review of biodiesel composition, properties, and
+  specifications}.
+\textbf{Renewable and Sustainable Energy Reviews}, Elsevier Ltd, v.~16, n.~1,
+  p. 143--169, 2012.
+ISSN 13640321.
+Dispon{\'\i}vel em: \url{http://dx.doi.org/10.1016/j.rser.2011.07.143}.}
+
+\bibitem[Leggieri, Senra e Soh 2018]{Leggieri2018a}
+\abntrefinfo{Leggieri, Senra e Soh}{LEGGIERI; SENRA; SOH}{2018}
+{LEGGIERI, P.~A.; SENRA, M.; SOH, L. {Cloud point and crystallization in fatty
+  acid ethyl ester biodiesel mixtures with and without additives}.
+\textbf{Fuel}, Elsevier, v.~222, n. March, p. 243--249, 2018.
+ISSN 00162361.
+Dispon{\'\i}vel em: \url{https://doi.org/10.1016/j.fuel.2018.02.100}.}
+
+\bibitem[Luenberger e Ye 2016]{Luenberger2016}
+\abntrefinfo{Luenberger e Ye}{LUENBERGER; YE}{2016}
+{LUENBERGER, D.~G.; YE, Y. \textbf{Linear and nonlinear programming}. 4ed.. ed.
+  Springer, 2016.  (International series in operations research e management
+  science volume 228).
+ISBN 978-3-319-18842-3. Dispon{\'\i}vel em:
+  \url{http://www.springer.com/series/6161}.}
+
+\bibitem[Marco et al. 2019]{DeMarco2019}
+\abntrefinfo{Marco et al.}{MARCO et al.}{2019}
+{MARCO, B.~A. de et al. {Evolution of green chemistry and its multidimensional
+  impacts: A review}.
+\textbf{Saudi Pharmaceutical Journal}, v.~27, n.~1, p.~1--8, 2019.
+ISSN 13190164.}
+
+\bibitem[M{\"{u}}ller et al. 2019]{Muller2019}
+\abntrefinfo{M{\"{u}}ller et al.}{M{\"{U}}LLER et al.}{2019}
+{M{\"{U}}LLER, S. et al. {Evaluation and refinement of the novel predictive
+  electrolyte model COSMO-RS-ES based on solid-liquid equilibria of salts and
+  Gibbs free energies of transfer of ions}.
+\textbf{Fluid Phase Equilibria}, v.~483, p. 165--174, 2019.
+ISSN 03783812.}
+
+\bibitem[Niederberger 2020]{latexchemformula}
+\abntrefinfo{Niederberger}{NIEDERBERGER}{2020}
+{NIEDERBERGER, C. \textbf{Chemformula}: Typeset chemical compounds and
+  reactions.
+Herrenberg, 2020. 38~p.  (Manuais \LaTeX). Dispon{\'\i}vel em:
+  \url{https://www.ctan.org/pkg/chemformula}. Acesso em: 30 Nov. 2020.}
+
+\bibitem[Pakdel et al. 2021]{PakdelAmirSaeid2021CNCN}
+\abntrefinfo{Pakdel et al.}{PAKDEL et al.}{2021}
+{PAKDEL, A.~S. et al. Cellulose nanocrystal (cnc)–latex nanocomposites:
+  Effect of cnc hydrophilicity and charge on rheological, mechanical, and
+  adhesive properties.
+\textbf{Macromolecular rapid communications.}, Wiley Subscription Services,
+  Inc, Germany, v.~42, n.~3, p. e2000448--n/a, 2021.
+ISSN 1022-1336.}
+
+\bibitem[Prausnitz, Lichtenthaler e Azevedo 1999]{Prausnitz}
+\abntrefinfo{Prausnitz, Lichtenthaler e Azevedo}{PRAUSNITZ; LICHTENTHALER;
+  AZEVEDO}{1999}
+{PRAUSNITZ, J.; LICHTENTHALER, R.; AZEVEDO, E. de. \textbf{Molecular
+  Thermodynamics of Fluid-Phase Equilibria}. 3ed. ed. New Jersey: PH PTR, 1999.
+ISBN 0139777458,9780139777455.}
+
+\bibitem[Rocha 2011]{Rocha2011}
+\abntrefinfo{Rocha}{ROCHA}{2011}
+{ROCHA, S.~A.
+\textbf{{C{\'{a}}lculo do equil{\'{i}}brio s{\'{o}}lido-l{\'{i}}quido e ajuste
+  de par{\^{a}}metros para modelos termodin{\^{a}}micos em misturas
+  bin{\'{a}}rias e tern{\'{a}}rias de {\'{a}}cidos graxos, seus {\'{e}}steres e
+  triacilglicer{\'{o}}is}}.
+249~p. Tese (Doutorado em Química) --- Universidade Estadual de Campinas,
+  2011.}
+
+\bibitem[Rocha e Guirardello 2009]{Rocha2009a}
+\abntrefinfo{Rocha e Guirardello}{ROCHA; GUIRARDELLO}{2009}
+{ROCHA, S.~A.; GUIRARDELLO, R. {An approach to calculate solid-liquid phase
+  equilibrium for binary mixtures}.
+\textbf{Fluid Phase Equilibria}, v.~281, n.~1, p. 12--21, 2009.
+ISSN 03783812.}
+
+\bibitem[Sandler 2017]{Sandlel}
+\abntrefinfo{Sandler}{SANDLER}{2017}
+{SANDLER, S.~I. \textbf{{Chemical, Biochemical, and Engineering
+  Thermodynamics}}. 5 ed.. ed. Hoboken: John Wiley {\&} Sons, 2017. 999~p.
+ISBN 978-0-470-50479-6.}
+
+\bibitem[Tantau 2020]{latextikz}
+\abntrefinfo{Tantau}{TANTAU}{2020}
+{TANTAU, T. \textbf{The TikZ and PGF Packages}: Documentos t\'{e}cnicos e
+  cient\'{i}ficos brasileiros compat\'{i}veis com as normas abnt.
+Lübeck, 2020. 1318~p.  (Manuais \LaTeX). Acesso em: 30 Nov. 2020.}
+
+\bibitem[Wei et al. 2009]{Wei2009}
+\abntrefinfo{Wei et al.}{WEI et al.}{2009}
+{WEI, D. et al. {Measurement and correlation of solid-liquid equilibria of
+  Irganox 1010 with n-hexane}.
+\textbf{Fluid Phase Equilibria}, v.~287, n.~1, p. 39--42, 2009.
+ISSN 03783812.}
+
+\end{thebibliography}
