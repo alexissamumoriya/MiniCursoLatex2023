@@ -12,11 +12,6 @@
 São Paulo, 2018. 45~p.  (Manuais \LaTeX). Dispon{\'\i}vel em:
   \url{http://www.abntex.net.br/}. Acesso em: 30 Nov. 2020.}
 
-\bibitem[Barbosa et al. 2004]{Barbosa2004}
-\abntrefinfo{Barbosa et al.}{BARBOSA et al.}{2004}
-{BARBOSA, C. et al. \textbf{Testando a utiliza{\c c}\~ao de ``et al.''}. 2. ed.
-  Cidade: Editora, 2004.}
-
 \bibitem[Barbosa 2012]{Barbosa2012}
 \abntrefinfo{Barbosa}{BARBOSA}{2012}
 {BARBOSA, D.~F.
@@ -35,13 +30,6 @@ São Paulo, 2018. 45~p.  (Manuais \LaTeX). Dispon{\'\i}vel em:
 \textbf{Journal of Thermal Analysis and Calorimetry}, Springer Netherlands,
   v.~125, n.~2, p. 793--801, 2016.
 ISSN 15882926.}
-
-\bibitem[Carvalho, Fajardo e Cruz 2001]{Carvalho2001}
-\abntrefinfo{Carvalho, Fajardo e Cruz}{CARVALHO; FAJARDO; CRUZ}{2001}
-{CARVALHO, C.; FAJARDO, J.; CRUZ, J. Intelig{\^e}ncia competitiva numa vis\~ao
-  de futuro: proposta metodol\'{o}gica.
-\textbf{DataGramaZero - Revista da Ci{\^e}ncia da Informa{\c c}\~ao}, v.~2,
-  n.~3, p. 12--16, 2001.}
 
 \bibitem[Costa et al. 2012]{Costa2012}
 \abntrefinfo{Costa et al.}{COSTA et al.}{2012}
@@ -81,6 +69,15 @@ ISSN 1808-9569.}
   Transfoemada de Fourrier (FT-IR)}.
 Disserta\c{c}\~{a}o (Mestrado) --- Instituto Federal do Paraná, 2020.}
 
+\bibitem[FERREIRA 2013]{AnaF}
+\abntrefinfo{FERREIRA}{FERREIRA}{2013}
+{FERREIRA, A. E.~G.
+\textbf{{A Import{\^{a}}cia dos sistemas Lineares no Ensino M{\'{e}}dio e a
+  Contribui{\c{c}}{\~{a}}o para a Matem{\'{a}}tica e suas
+  Aplica{\c{c}}{\~{o}}es}}.
+Tese (Doutorado) --- Universidade Estadual de Ponta Grossa, Ponta Grossa, feb
+  2013.}
+
 \bibitem[Fonseca e Czuy 2005]{Fonseca2005}
 \abntrefinfo{Fonseca e Czuy}{FONSECA; CZUY}{2005}
 {FONSECA, F.~P. da; CZUY, D.~C. {Forma{\c{c}}{\~{a}}o Arenito Caiu{\'{a}}: uso,
@@ -109,6 +106,11 @@ ISBN 978-3-319-23796-1.}
   p. 143--169, 2012.
 ISSN 13640321.
 Dispon{\'\i}vel em: \url{http://dx.doi.org/10.1016/j.rser.2011.07.143}.}
+
+\bibitem[IEZZI 2010]{Iezzi_fund1}
+\abntrefinfo{IEZZI}{IEZZI}{2010}
+{IEZZI, G. \textbf{{Fundamentos de Matem{\'{a}}tica Elementar, Conjuntos e
+  Fun{\c{c}}{\~{o}}es}}. 7. ed. S{\~{a}}o Paulo: Atual Editora, 2010. v.~1.}
 
 \bibitem[Leggieri, Senra e Soh 2018]{Leggieri2018a}
 \abntrefinfo{Leggieri, Senra e Soh}{LEGGIERI; SENRA; SOH}{2018}
@@ -147,15 +149,6 @@ ISSN 03783812.}
   reactions.
 Herrenberg, 2020. 38~p.  (Manuais \LaTeX). Dispon{\'\i}vel em:
   \url{https://www.ctan.org/pkg/chemformula}. Acesso em: 30 Nov. 2020.}
-
-\bibitem[Pakdel et al. 2021]{PakdelAmirSaeid2021CNCN}
-\abntrefinfo{Pakdel et al.}{PAKDEL et al.}{2021}
-{PAKDEL, A.~S. et al. Cellulose nanocrystal (cnc)–latex nanocomposites:
-  Effect of cnc hydrophilicity and charge on rheological, mechanical, and
-  adhesive properties.
-\textbf{Macromolecular rapid communications.}, Wiley Subscription Services,
-  Inc, Germany, v.~42, n.~3, p. e2000448--n/a, 2021.
-ISSN 1022-1336.}
 
 \bibitem[Prausnitz, Lichtenthaler e Azevedo 1999]{Prausnitz}
 \abntrefinfo{Prausnitz, Lichtenthaler e Azevedo}{PRAUSNITZ; LICHTENTHALER;
